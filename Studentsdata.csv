@@ -1,0 +1,10 @@
+﻿ID,class,gender,race,GPA,Algebra,Calculus1,Calculus2,Statistics,Probability,Measure,Functional_analysis,from1,from2,from3,from4,y
+1141,A,male,1,73.47,64,81,87,60,74,71,60,A,A,A,3,0
+1142,A,female,1,71.22,57,50,51,51,55,62,61,B,A,A,2,0
+1143,A,female,2,74.56,47,48,71,60,61,68,64,C,A,A,0,1
+1144,A,female,1,72.89,46,72,38,60,29,54,51,D,A,A,0,0
+1145,A,female,1,70.11,49,45,63,60,66,66,61,E,A,A,0,0
+1146,A,male,3,65.04,60,60,39,61,65,74,60,F,B,C,0,0
+1147,A,male,4,77.11,60,43,52,63,71,72,75,G,A,A,0,1
+1148,A,female,5,64.75,60,38,60,63,70,68,51,H,B,C,0,0
+1149,B,female,5,77.92,61,60,66,68,80,78,71,I,B,A,0,0
